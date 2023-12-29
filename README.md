@@ -11,11 +11,11 @@ To write a program to find the LU Decomposition of a matrix.
 
 Step1: importing numpy function
 
-Step2: assigning values to the variable in list form
+Step2: use numpy and sys packages
 
-Step3: using the scipy.linalg import lu,we can find LU Decomposition of a matrix
+Step3: use nested loops to loop through each row and column
 
-Step4: using the print function print the LU Decomposition of a matrix
+Step4: end the program
 
 ## Program:
 (i) To find the L and U matrix
